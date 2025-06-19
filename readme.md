@@ -1,3 +1,7 @@
+jupyter文件均为模型训练的文件，共四个版本。
+inference_appultimate.py文件为web评测端文件
+
+下面是数据集的介绍：
 img文件夹下存放每一条声明的图片
 
 img_html_news文件夹下存放根据每一条声明的caption检索到的网页与图片，其中direct_annotation.json包含如下信息：
